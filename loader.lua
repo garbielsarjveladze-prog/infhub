@@ -14,7 +14,7 @@
 -- ============================================================
 -- CONFIG: Change this to your GitHub username
 -- ============================================================
-local GITHUB_USER = "YOURUSERNAME"
+local GITHUB_USER = "garbielsarjveladze-prog"
 local REPO = "infhub"
 local BRANCH = "main"
 
